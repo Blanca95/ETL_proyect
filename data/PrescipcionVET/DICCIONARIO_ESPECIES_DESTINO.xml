@@ -1,0 +1,1471 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aemps_prescripcion_especies_destino xmlns="http://schemas.aemps.es/prescripcionvet/aemps_prescripcion_especies_destino" xsi:schemaLocation="http://schemas.aemps.es/prescripcionvet/aemps_prescripcion_especies_destino http://schemas.aemps.es/prescripcionvet/aemps_prescripcion_especies_destino.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <especiesdestino>
+    <cod_espdes>1</cod_espdes>
+    <des_espdes>Bovino</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>2</cod_espdes>
+    <des_espdes>Ovino</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>3</cod_espdes>
+    <des_espdes>Caprino</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>4</cod_espdes>
+    <des_espdes>Potros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>5</cod_espdes>
+    <des_espdes>Caballos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>6</cod_espdes>
+    <des_espdes>Equino</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>7</cod_espdes>
+    <des_espdes>Porcino</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>8</cod_espdes>
+    <des_espdes>Gallinas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>9</cod_espdes>
+    <des_espdes>Pavos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>10</cod_espdes>
+    <des_espdes>Gallinas ponedoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>11</cod_espdes>
+    <des_espdes>Salmónidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>12</cod_espdes>
+    <des_espdes>Peces</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>13</cod_espdes>
+    <des_espdes>Abejas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>14</cod_espdes>
+    <des_espdes>Perros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>15</cod_espdes>
+    <des_espdes>Gatos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>16</cod_espdes>
+    <des_espdes>Conejos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>17</cod_espdes>
+    <des_espdes>Vacas lecheras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>18</cod_espdes>
+    <des_espdes>Vacas en lactación</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>19</cod_espdes>
+    <des_espdes>Vacas en secado</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>20</cod_espdes>
+    <des_espdes>Bovino de carne</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>21</cod_espdes>
+    <des_espdes>Terneros prerrumiantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>22</cod_espdes>
+    <des_espdes>Bovino rumiante</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>23</cod_espdes>
+    <des_espdes>Vacas reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>24</cod_espdes>
+    <des_espdes>Toros reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>25</cod_espdes>
+    <des_espdes>Terneros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>26</cod_espdes>
+    <des_espdes>Ovejas lecheras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>27</cod_espdes>
+    <des_espdes>Ovejas en lactación</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>28</cod_espdes>
+    <des_espdes>Ovejas en secado</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>29</cod_espdes>
+    <des_espdes>Ovino de carne</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>30</cod_espdes>
+    <des_espdes>Corderos prerrumiantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>31</cod_espdes>
+    <des_espdes>Ovino rumiante</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>32</cod_espdes>
+    <des_espdes>Corderos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>33</cod_espdes>
+    <des_espdes>OVINO (REPRODUCTORAS)*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>34</cod_espdes>
+    <des_espdes>Vacas lecheras en secado</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>35</cod_espdes>
+    <des_espdes>Cerdos de engorde</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>36</cod_espdes>
+    <des_espdes>Lechones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>37</cod_espdes>
+    <des_espdes>Cerdas reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>38</cod_espdes>
+    <des_espdes>Cerdos reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>39</cod_espdes>
+    <des_espdes>Pollos reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>40</cod_espdes>
+    <des_espdes>Pollos de reposición</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>42</cod_espdes>
+    <des_espdes>Gallos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>43</cod_espdes>
+    <des_espdes>Aves ornamentales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>44</cod_espdes>
+    <des_espdes>Palomas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>45</cod_espdes>
+    <des_espdes>Patos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>46</cod_espdes>
+    <des_espdes>Pollitos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>47</cod_espdes>
+    <des_espdes>Pollos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>48</cod_espdes>
+    <des_espdes>Pollos de engorde</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>49</cod_espdes>
+    <des_espdes>Yeguas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>50</cod_espdes>
+    <des_espdes>EQUIDOS (CABALLOS DE DEPORTE)*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>51</cod_espdes>
+    <des_espdes>Burros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>52</cod_espdes>
+    <des_espdes>Mulas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>53</cod_espdes>
+    <des_espdes>Ponis</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>54</cod_espdes>
+    <des_espdes>Cachorros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>55</cod_espdes>
+    <des_espdes>Perras reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>56</cod_espdes>
+    <des_espdes>Gatitos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>57</cod_espdes>
+    <des_espdes>Gatas reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>58</cod_espdes>
+    <des_espdes>Conejas reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>59</cod_espdes>
+    <des_espdes>Gazapos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>61</cod_espdes>
+    <des_espdes>Cabras en lactación</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>62</cod_espdes>
+    <des_espdes>Cabras en secado</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>63</cod_espdes>
+    <des_espdes>Cabritos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>64</cod_espdes>
+    <des_espdes>Cabritos prerrumiantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>65</cod_espdes>
+    <des_espdes>Caprino rumiante</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>66</cod_espdes>
+    <des_espdes>CAPRINO (REPRODUCTORES)*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>67</cod_espdes>
+    <des_espdes>CAPRINO (REPRODUCTORAS)*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>68</cod_espdes>
+    <des_espdes>Peces productores de carne</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>69</cod_espdes>
+    <des_espdes>Rodaballo</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>70</cod_espdes>
+    <des_espdes>Lubina</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>71</cod_espdes>
+    <des_espdes>Dorada</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>72</cod_espdes>
+    <des_espdes>Crustáceos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>73</cod_espdes>
+    <des_espdes>Moluscos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>74</cod_espdes>
+    <des_espdes>Cefalópodos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>75</cod_espdes>
+    <des_espdes>Vacas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>76</cod_espdes>
+    <des_espdes>Ovejas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>77</cod_espdes>
+    <des_espdes>Cerdas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>78</cod_espdes>
+    <des_espdes>Yeguas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>79</cod_espdes>
+    <des_espdes>Perras gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>80</cod_espdes>
+    <des_espdes>Gatas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>81</cod_espdes>
+    <des_espdes>Conejas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>82</cod_espdes>
+    <des_espdes>Cabras gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>84</cod_espdes>
+    <des_espdes>Pavos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>85</cod_espdes>
+    <des_espdes>Salmón del Atlántico</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>86</cod_espdes>
+    <des_espdes>Truchas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>87</cod_espdes>
+    <des_espdes>Todas las especies</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>88</cod_espdes>
+    <des_espdes>ASNO*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>90</cod_espdes>
+    <des_espdes>Otras aves</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>91</cod_espdes>
+    <des_espdes>Caballos no destinados a consumo humano</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>92</cod_espdes>
+    <des_espdes>OTROS ANIMALES DOMESTICOS*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>93</cod_espdes>
+    <des_espdes>AVES (PAVAS FUTURAS REPRODUCTORAS)*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>94</cod_espdes>
+    <des_espdes>Huevos embrionados de trucha</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>95</cod_espdes>
+    <des_espdes>MAMIFEROS DE PRODUCCION (Animales de Granja)*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>96</cod_espdes>
+    <des_espdes>Mamíferos no destinados a la producción</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>97</cod_espdes>
+    <des_espdes>Rumiantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>98</cod_espdes>
+    <des_espdes>Vacas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>99</cod_espdes>
+    <des_espdes>Aves de corral</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>100</cod_espdes>
+    <des_espdes>OTRAS AVES (PALOMAS NO CONSUMO)*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>103</cod_espdes>
+    <des_espdes>Cerdas multíparas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>104</cod_espdes>
+    <des_espdes>Cerdas primíparas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>105</cod_espdes>
+    <des_espdes>Huevos embrionados de gallina</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>106</cod_espdes>
+    <des_espdes>Roedores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>107</cod_espdes>
+    <des_espdes>Ratas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>108</cod_espdes>
+    <des_espdes>Ratones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>109</cod_espdes>
+    <des_espdes>Visones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>110</cod_espdes>
+    <des_espdes>Zorros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>111</cod_espdes>
+    <des_espdes>INSTALACIONES GANADERAS*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>112</cod_espdes>
+    <des_espdes>Faisanes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>113</cod_espdes>
+    <des_espdes>Animales salvajes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>114</cod_espdes>
+    <des_espdes>Reptiles para producción</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>115</cod_espdes>
+    <des_espdes>Lechones destetados</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>116</cod_espdes>
+    <des_espdes>Cobayas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>117</cod_espdes>
+    <des_espdes>Chinchillas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>118</cod_espdes>
+    <des_espdes>Hámsteres</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>119</cod_espdes>
+    <des_espdes>Hurones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>120</cod_espdes>
+    <des_espdes>Jerbos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>121</cod_espdes>
+    <des_espdes>Pavos reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>123</cod_espdes>
+    <des_espdes>LAGOMORFOS*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>124</cod_espdes>
+    <des_espdes>Perdices</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>125</cod_espdes>
+    <des_espdes>Pintadas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>126</cod_espdes>
+    <des_espdes>Peces ornamentales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>127</cod_espdes>
+    <des_espdes>Canarios</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>128</cod_espdes>
+    <des_espdes>Animales para producción de piel</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>129</cod_espdes>
+    <des_espdes>Palomas mensajeras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>130</cod_espdes>
+    <des_espdes>Cérvidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>131</cod_espdes>
+    <des_espdes>Tortugas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>132</cod_espdes>
+    <des_espdes>Novillas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>133</cod_espdes>
+    <des_espdes>Animales de laboratorio</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>134</cod_espdes>
+    <des_espdes>Pinzones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>135</cod_espdes>
+    <des_espdes>Pájaros ornamentales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>136</cod_espdes>
+    <des_espdes>Reptiles</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>137</cod_espdes>
+    <des_espdes>Pequeños mamíferos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>139</cod_espdes>
+    <des_espdes>Trucha arcoiris</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>142</cod_espdes>
+    <des_espdes>Aves (broilers  ponedoras reproductoras y pavos) *</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>144</cod_espdes>
+    <des_espdes>Cerdas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>145</cod_espdes>
+    <des_espdes>Verracos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>146</cod_espdes>
+    <des_espdes>Cerdas jóvenes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>147</cod_espdes>
+    <des_espdes>Cerdas nulíparas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>148</cod_espdes>
+    <des_espdes>Aves</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>149</cod_espdes>
+    <des_espdes>Ocas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>151</cod_espdes>
+    <des_espdes>Conejos no destinados a consumo humano</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>152</cod_espdes>
+    <des_espdes>Pavos de engorde</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>154</cod_espdes>
+    <des_espdes>Équidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>156</cod_espdes>
+    <des_espdes>TODAS  EXCEPTO AVES*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>157</cod_espdes>
+    <des_espdes>TODAS  EXCEPTO AVES*</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>163</cod_espdes>
+    <des_espdes>Ovejas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>164</cod_espdes>
+    <des_espdes>Cerdas adultas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>165</cod_espdes>
+    <des_espdes>Pavas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>166</cod_espdes>
+    <des_espdes>Ovejas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>167</cod_espdes>
+    <des_espdes>Agachadiza común</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>168</cod_espdes>
+    <des_espdes>Águilas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>169</cod_espdes>
+    <des_espdes>Alces</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>171</cod_espdes>
+    <des_espdes>Alpacas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>172</cod_espdes>
+    <des_espdes>Anfibios</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>173</cod_espdes>
+    <des_espdes>Anguila</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>174</cod_espdes>
+    <des_espdes>Animales de acuicultura</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>175</cod_espdes>
+    <des_espdes>Animales de caza</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>176</cod_espdes>
+    <des_espdes>Animales de terrario</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>177</cod_espdes>
+    <des_espdes>Animales de zoo</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>178</cod_espdes>
+    <des_espdes>Animales domésticos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>179</cod_espdes>
+    <des_espdes>Animales para reproducción</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>180</cod_espdes>
+    <des_espdes>Antílopes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>181</cod_espdes>
+    <des_espdes>Arañas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>182</cod_espdes>
+    <des_espdes>Artiodáctilos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>183</cod_espdes>
+    <des_espdes>Aves de caza</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>185</cod_espdes>
+    <des_espdes>Avestruces</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>186</cod_espdes>
+    <des_espdes>Avutardas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>187</cod_espdes>
+    <des_espdes>Bacalao</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>188</cod_espdes>
+    <des_espdes>Ballenas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>189</cod_espdes>
+    <des_espdes>Besugo</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>190</cod_espdes>
+    <des_espdes>Bisontes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>191</cod_espdes>
+    <des_espdes>Bivalvos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>192</cod_espdes>
+    <des_espdes>Bovino, incluídos los búfalos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>193</cod_espdes>
+    <des_espdes>Bovinos salvajes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>194</cod_espdes>
+    <des_espdes>Bucerros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>195</cod_espdes>
+    <des_espdes>Bueyes adultos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>196</cod_espdes>
+    <des_espdes>Bueyes jóvenes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>197</cod_espdes>
+    <des_espdes>Búfalas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>198</cod_espdes>
+    <des_espdes>Búfalos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>199</cod_espdes>
+    <des_espdes>Búfalos macho</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>200</cod_espdes>
+    <des_espdes>Búhos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>201</cod_espdes>
+    <des_espdes>Caballos castrados</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>202</cod_espdes>
+    <des_espdes>Caballos enteros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>203</cod_espdes>
+    <des_espdes>Cabras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>204</cod_espdes>
+    <des_espdes>Cabras salvajes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>205</cod_espdes>
+    <des_espdes>Cabritos lactantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>206</cod_espdes>
+    <des_espdes>Cacatúa ninfa</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>207</cod_espdes>
+    <des_espdes>Cacatúas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>208</cod_espdes>
+    <des_espdes>Camellos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>209</cod_espdes>
+    <des_espdes>Carneros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>210</cod_espdes>
+    <des_espdes>Carnívoros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>211</cod_espdes>
+    <des_espdes>Carpa común</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>212</cod_espdes>
+    <des_espdes>Carpas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>213</cod_espdes>
+    <des_espdes>Castores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>214</cod_espdes>
+    <des_espdes>Cebras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>215</cod_espdes>
+    <des_espdes>Cerdos de reposición</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>216</cod_espdes>
+    <des_espdes>Cerdos macho</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>217</cod_espdes>
+    <des_espdes>Cernícalos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>218</cod_espdes>
+    <des_espdes>Cérvidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>219</cod_espdes>
+    <des_espdes>Chacales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>220</cod_espdes>
+    <des_espdes>Chimpancés</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>221</cod_espdes>
+    <des_espdes>Ciervos de cola blanca</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>222</cod_espdes>
+    <des_espdes>Ciprínidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>223</cod_espdes>
+    <des_espdes>Cisnes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>224</cod_espdes>
+    <des_espdes>Cocodrilos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>225</cod_espdes>
+    <des_espdes>Codornices</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>226</cod_espdes>
+    <des_espdes>Conejos enanos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>227</cod_espdes>
+    <des_espdes>Corderos lactantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>228</cod_espdes>
+    <des_espdes>Corzos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>229</cod_espdes>
+    <des_espdes>Cuervos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>230</cod_espdes>
+    <des_espdes>Delfines</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>231</cod_espdes>
+    <des_espdes>Emúes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>232</cod_espdes>
+    <des_espdes>Équidos hembra</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>233</cod_espdes>
+    <des_espdes>Caballos destinados a consumo humano</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>234</cod_espdes>
+    <des_espdes>Erizos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>235</cod_espdes>
+    <des_espdes>Especies mayores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>236</cod_espdes>
+    <des_espdes>Especies menores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>237</cod_espdes>
+    <des_espdes>Estorninos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>238</cod_espdes>
+    <des_espdes>Esturión</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>239</cod_espdes>
+    <des_espdes>Fletán</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>240</cod_espdes>
+    <des_espdes>Galliformes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>241</cod_espdes>
+    <des_espdes>Gallina india</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>242</cod_espdes>
+    <des_espdes>Gamos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>243</cod_espdes>
+    <des_espdes>Gatas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>244</cod_espdes>
+    <des_espdes>Gatas en lactación</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>245</cod_espdes>
+    <des_espdes>Gato leopardo de Tsushima</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>246</cod_espdes>
+    <des_espdes>Gatos grandes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>247</cod_espdes>
+    <des_espdes>Gatos macho</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>248</cod_espdes>
+    <des_espdes>Gatos medianos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>249</cod_espdes>
+    <des_espdes>Gatos pequeños</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>250</cod_espdes>
+    <des_espdes>Gavilán tachiro</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>251</cod_espdes>
+    <des_espdes>Gorriones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>252</cod_espdes>
+    <des_espdes>Grandes animales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>253</cod_espdes>
+    <des_espdes>Guacamayos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>254</cod_espdes>
+    <des_espdes>Halcón peregrino</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>255</cod_espdes>
+    <des_espdes>Huevas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>256</cod_espdes>
+    <des_espdes>Humanos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>257</cod_espdes>
+    <des_espdes>Iguanas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>258</cod_espdes>
+    <des_espdes>Jabalíes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>259</cod_espdes>
+    <des_espdes>Jaguares</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>260</cod_espdes>
+    <des_espdes>Lagartos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>261</cod_espdes>
+    <des_espdes>Lechones lactantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>262</cod_espdes>
+    <des_espdes>Lechones recién nacidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>263</cod_espdes>
+    <des_espdes>Leones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>264</cod_espdes>
+    <des_espdes>Leopardos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>265</cod_espdes>
+    <des_espdes>Liebres</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>266</cod_espdes>
+    <des_espdes>Linces</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>267</cod_espdes>
+    <des_espdes>Linces rojos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>268</cod_espdes>
+    <des_espdes>Lirones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>269</cod_espdes>
+    <des_espdes>Llamas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>270</cod_espdes>
+    <des_espdes>Lobos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>271</cod_espdes>
+    <des_espdes>Loros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>272</cod_espdes>
+    <des_espdes>Machos cabríos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>273</cod_espdes>
+    <des_espdes>Mamíferos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>274</cod_espdes>
+    <des_espdes>Marsupiales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>275</cod_espdes>
+    <des_espdes>Martas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>276</cod_espdes>
+    <des_espdes>Milano negro</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>277</cod_espdes>
+    <des_espdes>Milanos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>278</cod_espdes>
+    <des_espdes>Monos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>279</cod_espdes>
+    <des_espdes>Murciélagos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>280</cod_espdes>
+    <des_espdes>Mustélidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>281</cod_espdes>
+    <des_espdes>Novillas gestantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>282</cod_espdes>
+    <des_espdes>Nutrias</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>283</cod_espdes>
+    <des_espdes>Osos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>284</cod_espdes>
+    <des_espdes>Osos panda</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>285</cod_espdes>
+    <des_espdes>Osteíctios</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>286</cod_espdes>
+    <des_espdes>Otros anfibios</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>287</cod_espdes>
+    <des_espdes>Otros animales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>288</cod_espdes>
+    <des_espdes>Otros artrópodos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>289</cod_espdes>
+    <des_espdes>Otros bóvidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>290</cod_espdes>
+    <des_espdes>Otros camélidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>291</cod_espdes>
+    <des_espdes>Otros cánidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>292</cod_espdes>
+    <des_espdes>Otros caprinos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>293</cod_espdes>
+    <des_espdes>Otros cérvidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>294</cod_espdes>
+    <des_espdes>Otros cérvidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>295</cod_espdes>
+    <des_espdes>Otros équidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>296</cod_espdes>
+    <des_espdes>Otros félidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>297</cod_espdes>
+    <des_espdes>Otros lepóridos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>298</cod_espdes>
+    <des_espdes>Otros mamíferos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>299</cod_espdes>
+    <des_espdes>Otros mamíferos marinos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>300</cod_espdes>
+    <des_espdes>Otros moluscos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>301</cod_espdes>
+    <des_espdes>Otros mustélidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>302</cod_espdes>
+    <des_espdes>Otros óvidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>303</cod_espdes>
+    <des_espdes>Otros peces</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>304</cod_espdes>
+    <des_espdes>Otros porcinos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>305</cod_espdes>
+    <des_espdes>Otros reptiles</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>306</cod_espdes>
+    <des_espdes>Otros roedores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>307</cod_espdes>
+    <des_espdes>Ovejas salvajes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>308</cod_espdes>
+    <des_espdes>Patitos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>309</cod_espdes>
+    <des_espdes>Pato de Berbería</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>310</cod_espdes>
+    <des_espdes>Patos de engorde</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>311</cod_espdes>
+    <des_espdes>Patos domésticos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>312</cod_espdes>
+    <des_espdes>Patos reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>313</cod_espdes>
+    <des_espdes>Pavipollos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>314</cod_espdes>
+    <des_espdes>Pavos macho</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>315</cod_espdes>
+    <des_espdes>Peces de agua dulce</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>316</cod_espdes>
+    <des_espdes>Peces hembra</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>317</cod_espdes>
+    <des_espdes>Peces marinos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>318</cod_espdes>
+    <des_espdes>Peces reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>319</cod_espdes>
+    <des_espdes>Pequeños animales</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>320</cod_espdes>
+    <des_espdes>Pequeños roedores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>321</cod_espdes>
+    <des_espdes>Periquitos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>323</cod_espdes>
+    <des_espdes>Perras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>324</cod_espdes>
+    <des_espdes>Perras en lactación</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>325</cod_espdes>
+    <des_espdes>Perro mapache</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>326</cod_espdes>
+    <des_espdes>Perros grandes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>327</cod_espdes>
+    <des_espdes>Perros macho</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>328</cod_espdes>
+    <des_espdes>Perros macho reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>329</cod_espdes>
+    <des_espdes>Perros medianos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>330</cod_espdes>
+    <des_espdes>Perros muy grandes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>331</cod_espdes>
+    <des_espdes>Perros muy pequeños</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>332</cod_espdes>
+    <des_espdes>Perros pequeños</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>333</cod_espdes>
+    <des_espdes>Pollitas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>334</cod_espdes>
+    <des_espdes>Potras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>335</cod_espdes>
+    <des_espdes>Potras lactantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>336</cod_espdes>
+    <des_espdes>Potros lactantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>337</cod_espdes>
+    <des_espdes>Potros macho</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>338</cod_espdes>
+    <des_espdes>Potros macho lactantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>339</cod_espdes>
+    <des_espdes>Primates</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>340</cod_espdes>
+    <des_espdes>Pumas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>341</cod_espdes>
+    <des_espdes>Ranas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>342</cod_espdes>
+    <des_espdes>Ratoneros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>343</cod_espdes>
+    <des_espdes>Ratones de campo</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>344</cod_espdes>
+    <des_espdes>Rebecos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>345</cod_espdes>
+    <des_espdes>Renos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>346</cod_espdes>
+    <des_espdes>Rumiantes y porcinos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>347</cod_espdes>
+    <des_espdes>Salmónidos hembra</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>348</cod_espdes>
+    <des_espdes>Serpientes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>349</cod_espdes>
+    <des_espdes>Serránidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>350</cod_espdes>
+    <des_espdes>Sin especificar</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>351</cod_espdes>
+    <des_espdes>Tejones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>352</cod_espdes>
+    <des_espdes>Terneros lactantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>353</cod_espdes>
+    <des_espdes>Terneros recién nacidos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>354</cod_espdes>
+    <des_espdes>Tigres</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>355</cod_espdes>
+    <des_espdes>Todas las demás especies productoras de alimentos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>356</cod_espdes>
+    <des_espdes>Todas las especies de mamiferos productoras de alimentos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>357</cod_espdes>
+    <des_espdes>Todas las especies no productoras de alimentos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>358</cod_espdes>
+    <des_espdes>Todas las especies productoras de alimentos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>359</cod_espdes>
+    <des_espdes>Todas las especies productoras de alimentos excepto los pec</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>360</cod_espdes>
+    <des_espdes>Toros</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>361</cod_espdes>
+    <des_espdes>Tórtolas</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>362</cod_espdes>
+    <des_espdes>Tortugas terrestres</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>363</cod_espdes>
+    <des_espdes>Trucha alpina</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>364</cod_espdes>
+    <des_espdes>Trucha común</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>365</cod_espdes>
+    <des_espdes>Turones</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>366</cod_espdes>
+    <des_espdes>Uapitíes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>367</cod_espdes>
+    <des_espdes>Venados</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>368</cod_espdes>
+    <des_espdes>Todas las especies productoras de alimento</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>369</cod_espdes>
+    <des_espdes>Ganado</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>370</cod_espdes>
+    <des_espdes>Equinos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>371</cod_espdes>
+    <des_espdes>Todos los rumiantes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>372</cod_espdes>
+    <des_espdes>Cabras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>373</cod_espdes>
+    <des_espdes>Gallina-Pollitas futuras ponedoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>374</cod_espdes>
+    <des_espdes>Gallina-Pollitas futuras reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>375</cod_espdes>
+    <des_espdes>Ovinos (reproductores)</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>400</cod_espdes>
+    <des_espdes>Bovinos jóvenes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>401</cod_espdes>
+    <des_espdes>Novillos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>402</cod_espdes>
+    <des_espdes>Cerdos jóvenes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>403</cod_espdes>
+    <des_espdes>Cerdos adultos</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>404</cod_espdes>
+    <des_espdes>Cerdas en lactación</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>405</cod_espdes>
+    <des_espdes>Verracos jóvenes</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>406</cod_espdes>
+    <des_espdes>Gallinas reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>407</cod_espdes>
+    <des_espdes>Pavas reproductoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>408</cod_espdes>
+    <des_espdes>Pavas ponedoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>409</cod_espdes>
+    <des_espdes>Pavos futuros reproductores</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>410</cod_espdes>
+    <des_espdes>Pavas futuras ponedoras</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>411</cod_espdes>
+    <des_espdes>Pollitas de reposición</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>412</cod_espdes>
+    <des_espdes>Conejos de engorde</des_espdes>
+  </especiesdestino>
+  <especiesdestino>
+    <cod_espdes>413</cod_espdes>
+    <des_espdes>Poni no productores de carne</des_espdes>
+  </especiesdestino>
+</aemps_prescripcion_especies_destino>

@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aemps_prescripcion_unidad_composicion xmlns="http://schemas.aemps.es/prescripcionvet/aemps_prescripcion_unidad_composicion" xsi:schemaLocation="http://schemas.aemps.es/prescripcionvet/aemps_prescripcion_unidad_composicion http://schemas.aemps.es/prescripcionvet/aemps_prescripcion_unidad_composicion.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <unidadescomposicion>
+    <codigounidadcomposicion>1</codigounidadcomposicion>
+    <unidadcomposicion>cm2</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>2</codigounidadcomposicion>
+    <unidadcomposicion>g</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>3</codigounidadcomposicion>
+    <unidadcomposicion>l</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>4</codigounidadcomposicion>
+    <unidadcomposicion>mg</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>5</codigounidadcomposicion>
+    <unidadcomposicion>ml</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>6</codigounidadcomposicion>
+    <unidadcomposicion>ppm mol/mol</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>7</codigounidadcomposicion>
+    <unidadcomposicion>%</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>8</codigounidadcomposicion>
+    <unidadcomposicion>UI</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>9</codigounidadcomposicion>
+    <unidadcomposicion>AEROSOL</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>10</codigounidadcomposicion>
+    <unidadcomposicion>Ampolla</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>11</codigounidadcomposicion>
+    <unidadcomposicion>Ampolla liofilizada o polvo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>12</codigounidadcomposicion>
+    <unidadcomposicion>Anillo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>13</codigounidadcomposicion>
+    <unidadcomposicion>Apósito</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>14</codigounidadcomposicion>
+    <unidadcomposicion>Barra</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>15</codigounidadcomposicion>
+    <unidadcomposicion>Bolo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>16</codigounidadcomposicion>
+    <unidadcomposicion>Bolsa</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>17</codigounidadcomposicion>
+    <unidadcomposicion>Cápsula</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>18</codigounidadcomposicion>
+    <unidadcomposicion>Cápsula y comprimido</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>19</codigounidadcomposicion>
+    <unidadcomposicion>Caramelo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>20</codigounidadcomposicion>
+    <unidadcomposicion>Cartucho</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>21</codigounidadcomposicion>
+    <unidadcomposicion>Tampón (pad)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>22</codigounidadcomposicion>
+    <unidadcomposicion>Cérula</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>23</codigounidadcomposicion>
+    <unidadcomposicion>Chicle</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>24</codigounidadcomposicion>
+    <unidadcomposicion>Collar</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>25</codigounidadcomposicion>
+    <unidadcomposicion>Comprimido</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>26</codigounidadcomposicion>
+    <unidadcomposicion>Comprimidos recubierto</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>27</codigounidadcomposicion>
+    <unidadcomposicion>Dispositivo intrauterino</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>28</codigounidadcomposicion>
+    <unidadcomposicion>DP50</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>29</codigounidadcomposicion>
+    <unidadcomposicion>Apósito adhesivo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>30</codigounidadcomposicion>
+    <unidadcomposicion>Enema</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>31</codigounidadcomposicion>
+    <unidadcomposicion>Envase</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>32</codigounidadcomposicion>
+    <unidadcomposicion>Esponja</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>33</codigounidadcomposicion>
+    <unidadcomposicion>Frasco</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>34</codigounidadcomposicion>
+    <unidadcomposicion>Gel extemporáneo, polvo para (envase monodosis)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>35</codigounidadcomposicion>
+    <unidadcomposicion>Generador</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>36</codigounidadcomposicion>
+    <unidadcomposicion>GLICEROLADO</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>37</codigounidadcomposicion>
+    <unidadcomposicion>Gragea</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>38</codigounidadcomposicion>
+    <unidadcomposicion>Granulado (envase monodosis)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>39</codigounidadcomposicion>
+    <unidadcomposicion>Gránulo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>40</codigounidadcomposicion>
+    <unidadcomposicion>Implante</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>41</codigounidadcomposicion>
+    <unidadcomposicion>Jarabe, polvo para (envae monodosis)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>42</codigounidadcomposicion>
+    <unidadcomposicion>Jeringa</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>43</codigounidadcomposicion>
+    <unidadcomposicion>Lámina bucodispersable</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>44</codigounidadcomposicion>
+    <unidadcomposicion>Lámina vaginal</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>45</codigounidadcomposicion>
+    <unidadcomposicion>Lápiz</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>46</codigounidadcomposicion>
+    <unidadcomposicion>Liotabas</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>47</codigounidadcomposicion>
+    <unidadcomposicion>mg/ml</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>48</codigounidadcomposicion>
+    <unidadcomposicion>ml (envase unidosis)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>49</codigounidadcomposicion>
+    <unidadcomposicion>No figuran ml</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>50</codigounidadcomposicion>
+    <unidadcomposicion>Oblea</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>51</codigounidadcomposicion>
+    <unidadcomposicion>Óvulo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>52</codigounidadcomposicion>
+    <unidadcomposicion>Pajita</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>53</codigounidadcomposicion>
+    <unidadcomposicion>Parche</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>54</codigounidadcomposicion>
+    <unidadcomposicion>Pastilla</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>55</codigounidadcomposicion>
+    <unidadcomposicion>Pellet</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>56</codigounidadcomposicion>
+    <unidadcomposicion>Perla</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>57</codigounidadcomposicion>
+    <unidadcomposicion>Píldora</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>58</codigounidadcomposicion>
+    <unidadcomposicion>Pipeta</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>59</codigounidadcomposicion>
+    <unidadcomposicion>Polvo (envase monodosis)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>60</codigounidadcomposicion>
+    <unidadcomposicion>POR DOSIS LIBERADA</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>61</codigounidadcomposicion>
+    <unidadcomposicion>m2</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>62</codigounidadcomposicion>
+    <unidadcomposicion>Pulverización</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>63</codigounidadcomposicion>
+    <unidadcomposicion>Dosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>64</codigounidadcomposicion>
+    <unidadcomposicion>Unidad de peso</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>65</codigounidadcomposicion>
+    <unidadcomposicion>Unidad de superficie</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>66</codigounidadcomposicion>
+    <unidadcomposicion>Unidad de volumen</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>67</codigounidadcomposicion>
+    <unidadcomposicion>Unidad relativa de potencia</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>68</codigounidadcomposicion>
+    <unidadcomposicion>Sello</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>69</codigounidadcomposicion>
+    <unidadcomposicion>Sobre</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>70</codigounidadcomposicion>
+    <unidadcomposicion>Sobre filtro</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>71</codigounidadcomposicion>
+    <unidadcomposicion>SOBRE MONODOSIS</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>72</codigounidadcomposicion>
+    <unidadcomposicion>Solución extemporánea, polvo para (envase monodosis)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>73</codigounidadcomposicion>
+    <unidadcomposicion>Supositorio</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>74</codigounidadcomposicion>
+    <unidadcomposicion>Suspensión extemporánea, polvo para (envase monodosis)</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>75</codigounidadcomposicion>
+    <unidadcomposicion>Tableta</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>76</codigounidadcomposicion>
+    <unidadcomposicion>Tampón</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>77</codigounidadcomposicion>
+    <unidadcomposicion>Tapón</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>78</codigounidadcomposicion>
+    <unidadcomposicion>Tira</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>79</codigounidadcomposicion>
+    <unidadcomposicion>Tul</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>80</codigounidadcomposicion>
+    <unidadcomposicion>U SN</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>81</codigounidadcomposicion>
+    <unidadcomposicion>U. SAT</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>82</codigounidadcomposicion>
+    <unidadcomposicion>Vial</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>83</codigounidadcomposicion>
+    <unidadcomposicion>VIAL (POLVO) + JERINGA PRECARGADA DE DISOLVENTE</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>84</codigounidadcomposicion>
+    <unidadcomposicion>Vial + ampolla</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>85</codigounidadcomposicion>
+    <unidadcomposicion>Vial de polvo + vial de disolvente</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>86</codigounidadcomposicion>
+    <unidadcomposicion>Pluma</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>87</codigounidadcomposicion>
+    <unidadcomposicion>Tarro</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>88</codigounidadcomposicion>
+    <unidadcomposicion>Pulsación</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>89</codigounidadcomposicion>
+    <unidadcomposicion>Vial para inyección</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>90</codigounidadcomposicion>
+    <unidadcomposicion>PLUMA PRECARGADA</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>91</codigounidadcomposicion>
+    <unidadcomposicion>Ampolla/vial bebible</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>92</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso oral unidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>93</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso tópico unidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>94</codigounidadcomposicion>
+    <unidadcomposicion>Comprimido vaginal</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>95</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso vaginal unidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>96</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso oftálmico unidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>97</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso ótico unidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>98</codigounidadcomposicion>
+    <unidadcomposicion>JERINGA PRECARGADA/CARTUCHO/PLUMA</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>99</codigounidadcomposicion>
+    <unidadcomposicion>Sobre/bolsa</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>100</codigounidadcomposicion>
+    <unidadcomposicion>Ampolla para inyección</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>101</codigounidadcomposicion>
+    <unidadcomposicion>Ampolla/vial nebulización</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>102</codigounidadcomposicion>
+    <unidadcomposicion>Aplicación rectal</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>103</codigounidadcomposicion>
+    <unidadcomposicion>Cápsula inhalación/alveólo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>104</codigounidadcomposicion>
+    <unidadcomposicion>Pulverización inhalada</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>105</codigounidadcomposicion>
+    <unidadcomposicion>DOSIS INYECTABLE EN ENVASE MULTIDOSIS</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>106</codigounidadcomposicion>
+    <unidadcomposicion>Envase irrigación vías urinarias</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>107</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso oftálmico multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>108</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso oral multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>109</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso ótico multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>110</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso rectal multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>111</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso tópico multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>112</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso vaginal multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>113</codigounidadcomposicion>
+    <unidadcomposicion>Frasco/bolsa de perfusión/diálisis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>114</codigounidadcomposicion>
+    <unidadcomposicion>Pulverización nasal</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>115</codigounidadcomposicion>
+    <unidadcomposicion>Pulverización sublingual</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>116</codigounidadcomposicion>
+    <unidadcomposicion>Pulverización oral en envase multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>117</codigounidadcomposicion>
+    <unidadcomposicion>Kg</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>118</codigounidadcomposicion>
+    <unidadcomposicion>Envase uso rectal multidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>119</codigounidadcomposicion>
+    <unidadcomposicion>Pulverización oral en envase unidosis</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>120</codigounidadcomposicion>
+    <unidadcomposicion>Unidad</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>121</codigounidadcomposicion>
+    <unidadcomposicion>Lámina</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>122</codigounidadcomposicion>
+    <unidadcomposicion>JERINGA PRECARGADA</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>123</codigounidadcomposicion>
+    <unidadcomposicion>Bolsa/frasco</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>124</codigounidadcomposicion>
+    <unidadcomposicion>Candelilla vaginal</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>125</codigounidadcomposicion>
+    <unidadcomposicion>Comprimido y cápsula</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>126</codigounidadcomposicion>
+    <unidadcomposicion>Vial + vial</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>127</codigounidadcomposicion>
+    <unidadcomposicion>Tubo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>128</codigounidadcomposicion>
+    <unidadcomposicion>Pulverización cutánea</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>129</codigounidadcomposicion>
+    <unidadcomposicion>SISTEMA DE LIBERACIÓN VAGINAL</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>130</codigounidadcomposicion>
+    <unidadcomposicion>Unidad de presión/ml</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>131</codigounidadcomposicion>
+    <unidadcomposicion>V</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>132</codigounidadcomposicion>
+    <unidadcomposicion>Unidad de dosificación</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>133</codigounidadcomposicion>
+    <unidadcomposicion>Liofilizado</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>134</codigounidadcomposicion>
+    <unidadcomposicion>Sistema</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>135</codigounidadcomposicion>
+    <unidadcomposicion>Bidón</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>136</codigounidadcomposicion>
+    <unidadcomposicion>Blister</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>137</codigounidadcomposicion>
+    <unidadcomposicion>Aplicador</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>138</codigounidadcomposicion>
+    <unidadcomposicion>Caja</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>139</codigounidadcomposicion>
+    <unidadcomposicion>cm</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>140</codigounidadcomposicion>
+    <unidadcomposicion>Crotal</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>141</codigounidadcomposicion>
+    <unidadcomposicion>Bastoncillo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>142</codigounidadcomposicion>
+    <unidadcomposicion>Pastilla para chupar</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>143</codigounidadcomposicion>
+    <unidadcomposicion>Película</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>144</codigounidadcomposicion>
+    <unidadcomposicion>Glóbulo</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>145</codigounidadcomposicion>
+    <unidadcomposicion>Pascal</unidadcomposicion>
+  </unidadescomposicion>
+  <unidadescomposicion>
+    <codigounidadcomposicion>146</codigounidadcomposicion>
+    <unidadcomposicion>Bala</unidadcomposicion>
+  </unidadescomposicion>
+</aemps_prescripcion_unidad_composicion>
