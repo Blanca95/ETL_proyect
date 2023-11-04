@@ -1,4 +1,4 @@
-#  😺 Desparasitantes de gatos 😺 ETL_proyect
+#  😺 Gatos y perros, censos y medicamentos 🐶 ETL_proyect
 
 ![gato](images/cat-scarf.jpg)
 
@@ -14,7 +14,7 @@ Para ello habrá que identificar las fuentes de las que queremos los datos, tran
 
 - Extracción 
     - 3 fuentes distintas (kaggle, api, otros: web, pdfs, etc)
-    - 2 métodos extracción (archivos: pdf, csv, hg, hs, pg, etc.) PDF Y CVS cuentan como solo 1 método
+    - 2 métodos extracción (archivos: pdf, csv, xml, pg, etc.)
 - Transformación para poder obtener queries
 - Guardado en base de datos (sql o mongodb)
 
@@ -22,7 +22,7 @@ Para ello habrá que identificar las fuentes de las que queremos los datos, tran
 
 - Python
 - Selenium
-- MongoDb
+- MongoDB
 ## Proceso
 
 #### ⛏ Extracción de datos
@@ -36,17 +36,22 @@ Para ello habrá que identificar las fuentes de las que queremos los datos, tran
 
 ## 😼 Conclusiones 😻 
 
+- 
+- 
+- 
+
 ![sorpresa](images/surprised_cat.jpg)
 
 ## Links herramientas:
 
-links a videos de como funcionan las herramientas que estoy usando o documentacion
+- Documentación Python: https://www.w3schools.com/python/default.asp
+- Documentación Selenium: https://selenium-python.readthedocs.io/
+- Documentación MongoDB: https://www.w3schools.com/mongodb/index.php
 
 ## Links recursos: 
-url: https://www.tiendanimal.es/seresto-collar-antiparasitario-para-gatos/BAY83883953_M.html
-ulr: https://www.msd-animal-health.es/productos-gato/
-url pdf: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.msd-animal-health.es/offload-downloads/bravecto-plus-500-mg-25-mg/
-url: https://www.zoetis.es/stronghold-plus.aspx
-url pdf: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.zoetis.es/_locale-assets/spc/stronghold-plus.pdf
-
+- CIMAVET, agencia española de medicamentos y productos sanitarios -> Base de datos completa con el Nomenclátor de prescripción -> url: https://cimavet.aemps.es/cimavet/publico/nomenclator.html
+- Purina:
+    -> url: https://www.purina.es/encuentra-mascota/razas-de-gato?page=%2C0
+    -> url: https://www.purina.es/encuentra-mascota/razas-de-perro
+- Censo de animales domésticos en madrid -> url: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=3e573d68ae8a6410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
 
