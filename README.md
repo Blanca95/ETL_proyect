@@ -1,10 +1,10 @@
 #  😺 Gatos y perros, censos y medicamentos 🐶 ETL_proyect
 
-![gato](images/cat-scarf.jpg)
+![perro](images/perro_med.png)
 
 ## Introducción 
 
-En este proyecto vamos a comparar tres desparasitantes externos de gatos entre sí y la protección que ofrecen con respecto a ciertos parásitos externos (pulgas, garrapatas,  piojos, ácaros, mosquitos (flebotomos y culícidos)).
+En este proyecto vamos a observar diferencias entre los censos y razas de perros y gatos en Madrid, junto a los medicamentos autorizados en España para los mismos.
 
 El objetivo es la obtención de datos de tres fuentes distintas, a través de dos medios de extracción de datos diferentes.
 
@@ -23,6 +23,7 @@ Para ello habrá que identificar las fuentes de las que queremos los datos, tran
 - Python
 - Selenium
 - MongoDB
+
 ## Proceso
 
 #### ⛏ Extracción de datos
