@@ -50,9 +50,12 @@ Para ello habrá que identificar las fuentes de las que queremos los datos, tran
 - Documentación MongoDB: https://www.w3schools.com/mongodb/index.php
 
 ## Links recursos: 
-- CIMAVET, agencia española de medicamentos y productos sanitarios -> Base de datos completa con el Nomenclátor de prescripción -> url: https://cimavet.aemps.es/cimavet/publico/nomenclator.html
-- Purina:
-    -> url: https://www.purina.es/encuentra-mascota/razas-de-gato?page=%2C0
-    -> url: https://www.purina.es/encuentra-mascota/razas-de-perro
-- Censo de animales domésticos en madrid -> url: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=3e573d68ae8a6410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+- CIMAVET, agencia española de medicamentos y productos sanitarios.
+    - Base de datos completa con el Nomenclátor de prescripción: 
+➡ url: https://cimavet.aemps.es/cimavet/publico/nomenclator.html
+- Purina, razas de gatos y perros:
+    ➡ url: https://www.purina.es/encuentra-mascota/razas-de-gato?page=%2C0
+    ➡ url: https://www.purina.es/encuentra-mascota/razas-de-perro
+- Censo de animales domésticos en madrid: 
+➡ url: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=3e573d68ae8a6410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
 
