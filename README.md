@@ -26,13 +26,15 @@ Para ello habrá que identificar las fuentes de las que queremos los datos, tran
 
 ## Proceso
 
-#### ⛏ Extracción de datos
+#### ⛏⏳ Extracción y transformación de datos para futuras queries
 
+He obtenido y transformado la infomación de un archivo .xml sobre los medicamentos para animales en España convirtiendo el archivo en un diccionario e ir rebuscando hasta encontrar los datos que quería, en este caso el nombre del medicamento, si está comercializado o no y la especie de destino, que ya lo he filtrado a perros y gatos. Este diccionario lo convirtí a dataframe al final.
 
-#### ⏳ Transformación de datos para futuras queries
+Tras esto, he sacado las razas de gatos y perros de la web de purina, utilizando selenium y obteniendo al final un dataframe.
 
+Y finalmente he extraído los datos de un archivo .csv sobre los censos de perros y gatos de madrid, para convertir la info también en un dataframe.
 
-#### 📚 Creación y carga de base de datos 
+#### 📚📊 Creación y carga de base de datos 
 
 
 ## 😼 Conclusiones 😻 
