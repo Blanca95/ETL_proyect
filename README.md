@@ -36,14 +36,9 @@ Y finalmente he extraído los datos de un archivo .csv sobre los censos de perro
 
 #### 📚📊 Creación y carga de base de datos 
 
+Al final de cada apartado anterior acabo guardando los datos de los dataframes en forma de archivos csv. Esos archivos los subo a MongoDB como colecciones dentro de una nueva base de datos denominada animales. Las colecciones se llaman censos madrid, medicamentos, razas de gatos y razas de perros
 
-## 😼 Conclusiones 😻 
-
-- 
-- 
-- 
-
-![sorpresa](images/surprised_cat.jpg)
+![bd](images/bd_mongo.png)
 
 ## Links herramientas:
 
@@ -61,3 +56,4 @@ Y finalmente he extraído los datos de un archivo .csv sobre los censos de perro
 - Censo de animales domésticos en madrid: 
 ➡ url: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=3e573d68ae8a6410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
 
+![sorpresa](images/surprised_cat.jpg)
