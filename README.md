@@ -36,9 +36,11 @@ Y finalmente he extraído los datos de un archivo .csv sobre los censos de perro
 
 #### 📚📊 Creación y carga de base de datos 
 
-Al final de cada apartado anterior acabo guardando los datos de los dataframes en forma de archivos csv. Esos archivos los subo a MongoDB como colecciones dentro de una nueva base de datos denominada animales. Las colecciones se llaman censos madrid, medicamentos, razas de gatos y razas de perros
+Al final de cada apartado del jupyter notebook anterior acabo guardando los datos de los dataframes en forma de archivos csv. Esos archivos ahora los voy a subir a MongoDB como colecciones dentro de una nueva base de datos denominada animales. Las colecciones se llaman censos madrid, medicamentos, razas de gatos y razas de perros.
 
-![bd](images/bd_mongo.png)
+Como bonus realizo dos queries una para ver solo los medicamentos comercializados en España y otra para ver los medicamentos únicamente de gatos.
+
+![bd](images/db_mongo.png)
 
 ## Links herramientas:
 
