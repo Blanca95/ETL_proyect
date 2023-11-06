@@ -42,18 +42,16 @@ Al final de cada apartado anterior acabo guardando los datos de los dataframes e
 
 ## Links herramientas:
 
-- Documentación Python: https://www.w3schools.com/python/default.asp
-- Documentación Selenium: https://selenium-python.readthedocs.io/
-- Documentación MongoDB: https://www.w3schools.com/mongodb/index.php
+- [Documentación Python](https://www.w3schools.com/python/default.asp)
+- [Documentación Selenium](https://selenium-python.readthedocs.io/)
+- [Documentación MongoDB](https://www.w3schools.com/mongodb/index.php)
 
 ## Links recursos: 
-- CIMAVET, agencia española de medicamentos y productos sanitarios.
-    - Base de datos completa con el Nomenclátor de prescripción: 
-➡ url: https://cimavet.aemps.es/cimavet/publico/nomenclator.html
-- Purina, razas de gatos y perros:
-    ➡ url: https://www.purina.es/encuentra-mascota/razas-de-gato?page=%2C0
-    ➡ url: https://www.purina.es/encuentra-mascota/razas-de-perro
-- Censo de animales domésticos en madrid: 
-➡ url: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=3e573d68ae8a6410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+- CIMAVET, AEMPS: agencia española de medicamentos y productos sanitarios.
+    - Base de datos completa con el Nomenclátor de prescripción: ➡ [url](https://cimavet.aemps.es/cimavet/publico/nomenclator.html)
+- Purina:
+    - Razas de gatos ➡ [url](https://www.purina.es/encuentra-mascota/razas-de-gato?page=%2C0)
+    - Razas de perros ➡ [url](https://www.purina.es/encuentra-mascota/razas-de-perro)
+- Censo de animales domésticos en madrid ➡ [url](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=3e573d68ae8a6410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
 
 ![sorpresa](images/surprised_cat.jpg)
